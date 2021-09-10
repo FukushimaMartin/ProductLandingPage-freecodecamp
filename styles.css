@@ -53,7 +53,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #dde;
+  background-color: rgb(196, 196, 238);
 }
 
 @media (max-width: 600px) {
@@ -237,7 +237,7 @@ nav > ul {
 }
 
 .product > .level {
-  background-color: #dde;
+  background-color: rgb(196, 196, 238);
   color: black;
   padding: 15px 0;
   width: 100%;
@@ -283,7 +283,7 @@ nav > ul {
 
 footer {
   margin-top: 30px;
-  background-color: #dde;
+  background-color: rgb(196, 196, 238);
   padding: 20px;
 }
 
